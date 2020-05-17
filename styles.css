@@ -1,0 +1,44 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+p{
+    color: rgb(248, 244, 244);
+}
+.btn{
+    padding: 2px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+margin-bottom: 1rem;
+}
+#para{
+    padding: 1rem 20rem;
+    font-size: 1.5rem;
+    font-family: cursive;
+    color: rgb(136, 223, 238);
+}
+
+
+h1{margin: 2rem;
+    font-size: 5rem;
+    color: rgb(84, 184, 127);
+    font-weight: bolder;
+    font-family: cursive;
+}
+#image1{
+    margin: 0rem 2rem;
+    width: 8rem;
+    height: 8rem;
+    padding: 0px;
+}
+#image2{
+    margin:  0rem 2rem;
+    width: 8rem;
+    height: 8rem;
+    padding: 0px;
+}
+.col{margin-top: 2rem;
+    padding: 0px;
+    font-weight: bolder;
+    font-family: cursive;
+}
